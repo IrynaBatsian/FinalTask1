@@ -16,7 +16,10 @@ for ( i = 0; i < array.Length; i++)
 }
  Console.WriteLine($"Ваш конечный массив: [{string.Join(", ", newArray)}]");
 
-
+//for ( i = 0; i < a; i++)
+//{
+//  Console.Write($"{(newArray[i])} ");
+//}
 
 
 
